@@ -1,1 +1,1 @@
-Data analysis to find insights to stop customer attrition. Data visualization and ML model building to prevent customers from churning out to other telecom companies.
+Final Project by Akhil Nair for STA6704 - Data Mining Methodologies II at UCF for Spring 2024. 
